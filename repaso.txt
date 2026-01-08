@@ -1,5 +1,6 @@
 primera linea
-segunda linea conflicto
+segunda linea
+segunda linea 
 tercera linea 
 cuarta linea
 
