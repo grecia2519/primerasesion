@@ -1,6 +1,5 @@
-
-primera linea
-segunda linea en master 
+ primera linea 
+segunda linea ok
 tercera linea
 cuarta linea
 quinta linea
